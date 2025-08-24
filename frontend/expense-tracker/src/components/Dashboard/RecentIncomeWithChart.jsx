@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import CustomPieChart from "../charts/CustomPieChart";
+import CustomPieChart from "../Charts/CustomPieChart";
 
 const COLORS = ["#7F7FFF", "#FA2C37", "#FF6900", "#4f39f6"];
 
